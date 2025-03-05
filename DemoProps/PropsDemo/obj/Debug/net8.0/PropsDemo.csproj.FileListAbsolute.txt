@@ -1,0 +1,14 @@
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\bin\Debug\net8.0\PropsDemo.exe
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\bin\Debug\net8.0\PropsDemo.deps.json
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\bin\Debug\net8.0\PropsDemo.runtimeconfig.json
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\bin\Debug\net8.0\PropsDemo.dll
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\bin\Debug\net8.0\PropsDemo.pdb
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\obj\Debug\net8.0\PropsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\obj\Debug\net8.0\PropsDemo.AssemblyInfoInputs.cache
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\obj\Debug\net8.0\PropsDemo.AssemblyInfo.cs
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\obj\Debug\net8.0\PropsDemo.csproj.CoreCompileInputs.cache
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\obj\Debug\net8.0\PropsDemo.dll
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\obj\Debug\net8.0\refint\PropsDemo.dll
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\obj\Debug\net8.0\PropsDemo.pdb
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\obj\Debug\net8.0\PropsDemo.genruntimeconfig.cache
+C:\Users\sumes\source\repos\DemoProps\PropsDemo\obj\Debug\net8.0\ref\PropsDemo.dll
